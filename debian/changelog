@@ -1,3 +1,9 @@
+virtuoso-opensource (7.2.12+dfsg-2deepin1) unstable; urgency=medium
+
+  * Rebuild against imagemagick 7.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Thu, 04 Sep 2025 23:22:45 +0800
+
 virtuoso-opensource (7.2.12+dfsg-2) unstable; urgency=medium
 
   * Team upload.
